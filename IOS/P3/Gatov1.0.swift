@@ -1,10 +1,5 @@
-//
-//  ContentView.swift
-//  GatoSwiftUI
-//
-//  Created by Lalo on 02/12/20.
-//  Copyright © 2020 Lalo. All rights reserved.
-//
+
+// Se importa la libreria de Swift
 
 import SwiftUI
 
